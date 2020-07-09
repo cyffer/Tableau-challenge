@@ -15,7 +15,7 @@ Popular Drop-off stations
 The significant findings in this dataset were primarily discovered glancing through the commuting hours which indicate that more people tend to use bikes in the morning rush hour than in the evening rush hour in the most popular destinations in midtown Manhattan.
 
 
-
+![Tableau-challenge](https://github.com/cyffer/Tableau-challenge/blob/master/imgs/dashboard.png)
 
 public server publish document
 https://public.tableau.com/profile/augustine.reyes#!/vizhome/bikedata_15928835261930/startstnpopularmaps?publish=yes
