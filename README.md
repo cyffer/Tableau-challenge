@@ -2,6 +2,9 @@
 
 The dataset that was extracted for study in this assignment was for the timeframe of August of 2016. It was
 
+**Public Server**
+
+https://public.tableau.com/profile/augustine.reyes#!/vizhome/bikedata_15928835261930/startstnpopularmaps?publish=yes
 
 Popular Pick-up Stations
 These bike stations were the most popular pick-up locations where bike rider bikes to start their ride. The first thing that can be noticed is that the majority of these stations are located near subway station where riders started their trips to their desire destinations.
@@ -17,5 +20,4 @@ The significant findings in this dataset were primarily discovered glancing thro
 
 ![Tableau-challenge](https://github.com/cyffer/Tableau-challenge/blob/master/imgs/dashboard.png)
 
-public server publish document
-https://public.tableau.com/profile/augustine.reyes#!/vizhome/bikedata_15928835261930/startstnpopularmaps?publish=yes
+
